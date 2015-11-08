@@ -1,6 +1,5 @@
 PhpSeven Magento Extension
 ===
-
 Compatibility module to get Magento 1.9.* working with >= PHP 7.0.0 RC 6.  
 This just overrides a core file using a class rewrite to avoid core file patching.  
 
