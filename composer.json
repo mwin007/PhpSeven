@@ -1,11 +1,11 @@
 {
-    "name": "magemechaniccom/magemechanic_phpseven",
-    "description": "a magento extension",
+    "name": "magemechanic/phpseven",
+    "description": "Compatibility module to get Magento 1.9.* working with >= PHP 7.0.0 RC 6",
     "type": "magento-module",
+    "license":"MIT",
     "require": {
         "magento-hackathon/magento-composer-installer": "*"
     },
-    "license": "proprietary",
     "authors": [
         {
             "name": "Charles Hilditch",
