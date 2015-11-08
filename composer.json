@@ -1,0 +1,16 @@
+{
+    "name": "magemechaniccom/magemechanic_phpseven",
+    "description": "a magento extension",
+    "type": "magento-module",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    },
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Charles Hilditch",
+            "email": "info@magemechanic.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}

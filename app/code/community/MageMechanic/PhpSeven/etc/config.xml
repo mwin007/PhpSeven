@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * MageMechanic PhpSeven Extension
+ *
+ * NOTICE OF LICENSE
+ *
+ * This source file is subject to the Open Software License (OSL 3.0)
+ * that is bundled with this package in the file LICENSE.txt.
+ * It is also available through the world-wide-web at this URL:
+ * http://opensource.org/licenses/osl-3.0.php
+ *
+ * @category   MageMechanic
+ * @package    MageMechanic_PhpSeven
+ * @author     Charles Hilditch
+ * @copyright  Copyright (c) 2015 MageMechanic.com (http://www.magemechanic.com/)
+ * @license    http://opensource.org/licenses/osl-3.0.php  Open Software License (OSL 3.0)
+ */
+-->
+<config>
+    <modules>
+        <MageMechanic_PhpSeven>
+            <version>1.0.0</version>
+        </MageMechanic_PhpSeven>
+    </modules>
+    <global>
+        <models>
+            <magemechanic_phpseven>
+                <class>MageMechanic_PhpSeven_Model</class>
+            </magemechanic_phpseven>
+            <core>
+                <rewrite>
+                    <layout>MageMechanic_PhpSeven_Model_Layout</layout>
+                </rewrite>
+            </core>
+        </models>
+    </global>
+</config>

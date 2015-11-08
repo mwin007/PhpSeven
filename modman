@@ -1,0 +1,3 @@
+app/etc/modules/MageMechanic_PhpSeven.xml app/etc/modules/MageMechanic_PhpSeven.xml
+app/code/community/MageMechanic/PhpSeven/Model/Layout.php app/code/community/MageMechanic/PhpSeven/Model/Layout.php
+app/code/community/MageMechanic/PhpSeven/etc/config.xml app/code/community/MageMechanic/PhpSeven/etc/config.xml

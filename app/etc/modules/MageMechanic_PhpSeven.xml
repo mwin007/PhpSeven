@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <MageMechanic_PhpSeven>
+            <active>true</active>
+            <codePool>community</codePool>
+        </MageMechanic_PhpSeven>
+        <MageCore>
+            <depends>
+                <MageMechanic_PhpSeven />
+            </depends>
+        </MageCore>
+    </modules>
+</config>
