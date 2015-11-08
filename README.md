@@ -11,7 +11,7 @@ Installation
 
 A few install options:
 
-* Install manually, [download here](https://github.com/MageMechanic/PhpSeven/archive/master.zip)
+* Install manually, [download here](https://github.com/MageMechanic/PhpSeven/archive/1.0.0.zip)
 
 * Install with modman: 
 ```bash
