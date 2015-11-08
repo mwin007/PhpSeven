@@ -12,16 +12,16 @@ Installation
 
 A few install options:
 
-* Install manually, [download here](https://github.com/MageMechanic/MageMechanic_PhpSeven/archive/master.zip)
+* Install manually, [download here](https://github.com/MageMechanic/PhpSeven/archive/master.zip)
 
 * Install with modman: 
 ```bash
-modman clone https://github.com/magemechanic/blah.git
+modman clone https://github.com/MageMechanic/PhpSeven.git
 ```
 * Install with composer:
 ```bash
 composer config repositories.magemechanic git https://github.com/MageMechanic/MageMechanic_PhpSeven.git
-composer require "onlinevisions/magemechaniccom_commercebug:1.0.0"
+composer require "magemechanic/phpseven:1.0.0"
 ```
 
 References
