@@ -20,7 +20,7 @@ modman clone https://github.com/MageMechanic/PhpSeven.git
 ```
 * Install with composer:
 ```bash
-composer config repositories.magemechanic git https://github.com/MageMechanic/MageMechanic_PhpSeven.git
+composer config repositories.magemechanic git https://github.com/MageMechanic/PhpSeven.git
 composer require "magemechanic/phpseven:1.0.0"
 ```
 
