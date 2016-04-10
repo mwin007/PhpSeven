@@ -5,10 +5,10 @@
             <active>true</active>
             <codePool>community</codePool>
         </MageMechanic_PhpSeven>
-        <MageCore>
+        <Mage_Core>
             <depends>
                 <MageMechanic_PhpSeven />
             </depends>
-        </MageCore>
+        </Mage_Core>
     </modules>
 </config>
