@@ -44,7 +44,6 @@ class MageMechanic_PhpSeven_Model_File_Uploader extends Mage_Core_Model_File_Upl
 
         //run validate callbacks
         foreach ($this->_validateCallbacks as $params) {
-            Mage::log("booom.....");
             if (is_object($params['object']) && method_exists($params['object'], $params['method'])) {
                 $params['object']->{$params['method']}($this->_file['tmp_name']);
             }
