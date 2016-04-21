@@ -51,3 +51,4 @@ class MageMechanic_PhpSeven_Model_File_Uploader extends Mage_Core_Model_File_Upl
     }
 
 }
+
