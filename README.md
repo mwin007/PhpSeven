@@ -3,8 +3,9 @@ PhpSeven Magento Extension
 Compatibility module to get Magento 1.9.* working with >= PHP 7.0.0 RC 6. PHP7.  
 This just overrides a core file using a class rewrite to avoid core file patching.  
 
-...or if you don't mind patching core files, here's a patch:   
-https://gist.github.com/MageMechanic/66449504110fbbd96214  
+Fixes PHP7 syntax error.
+Fixes product gallery image uploader in Magento admin.
+
 
 Installation
 ---
@@ -15,7 +16,7 @@ A few install options:
 
 * Install with modman: 
 ```bash
-modman clone https://github.com/MageMechanic/PhpSeven.git
+modman clone https://github.com/MageMechanic/PhpSeven.git --branch 1.0.2
 ```
 * Install with composer:
 ```bash
