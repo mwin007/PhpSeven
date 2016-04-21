@@ -3,7 +3,7 @@ PhpSeven Magento Extension
 Compatibility module to get Magento 1.9.* working with >= PHP 7.0.0 RC 6. PHP7.  
 This just overrides a core file using a class rewrite to avoid core file patching.  
 
-Fixes PHP7 syntax error.
+Fixes PHP7 syntax error.  
 Fixes product gallery image uploader in Magento admin.
 
 
