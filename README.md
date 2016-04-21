@@ -11,7 +11,7 @@ Installation
 
 A few install options:
 
-* Install manually, [download here](https://github.com/MageMechanic/PhpSeven/archive/1.0.0.zip)
+* Install manually, [download here](https://github.com/MageMechanic/PhpSeven/archive/1.0.2.zip)
 
 * Install with modman: 
 ```bash
@@ -20,7 +20,7 @@ modman clone https://github.com/MageMechanic/PhpSeven.git
 * Install with composer:
 ```bash
 composer config repositories.magemechanic git https://github.com/MageMechanic/PhpSeven.git
-composer require "magemechanic/phpseven:1.0.0"
+composer require "magemechanic/phpseven:1.0.2"
 ```
 
 References
