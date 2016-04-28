@@ -20,7 +20,7 @@
 <config>
     <modules>
         <MageMechanic_PhpSeven>
-            <version>1.0.2</version>
+            <version>1.0.3</version>
         </MageMechanic_PhpSeven>
     </modules>
     <global>
@@ -31,20 +31,8 @@
             <core>
                 <rewrite>
                     <layout>MageMechanic_PhpSeven_Model_Layout</layout>
-                    <file_uploader>MageMechanic_PhpSeven_Model_File_Uploader</file_uploader>
                 </rewrite>
             </core>
         </models>
     </global>
-    <admin>
-        <routers>
-            <adminhtml>
-                <args>
-                    <modules>
-                        <MageMechanic_PhpSeven before="Mage_Adminhtml">MageMechanic_PhpSeven_Adminhtml</MageMechanic_PhpSeven>
-                    </modules>
-                </args>
-            </adminhtml>
-        </routers>
-    </admin>
 </config>
